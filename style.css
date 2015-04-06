@@ -1,13 +1,4 @@
-/*
-Theme Name: Launch
-Theme URI: http://wordpress.org/themes/launch
-Author: Arūnas Liuiza
-Author URI: http://arunas.co/
-Description: A "coming soon" theme based on Launch template by Jason Schuller (http://jason.sc).
-Version: 1.0.1
-Tags: translation-ready, theme-options, custom-background, responsive-layout, custom-menu 
-Text Domain: launch
-*/
+
 
 /* original Launch styles (c) Jason Schuller */
 /* @import url('assets/styles/normalize.css'); */
@@ -34,3 +25,16 @@ body{color:rgba(255,255,255,.85)}h1,h2,h3{color:#fff}a{color:rgba(255,255,255,.8
 .alignright {}
 .alignleft {}
 .aligncenter {}
+
+
+/*
+Special Thanks
+Theme Name: Launch
+Theme URI: http://wordpress.org/themes/launch
+Author: Arūnas Liuiza
+Author URI: http://arunas.co/
+Description: A "coming soon" theme based on Launch template by Jason Schuller (http://jason.sc).
+Version: 1.0.1
+Tags: translation-ready, theme-options, custom-background, responsive-layout, custom-menu 
+Text Domain: launch
+*/
