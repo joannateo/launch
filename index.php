@@ -8,7 +8,8 @@
 		<header class="row" id="header">
 			<div class="content">
 				<!-- Logo & Tagline: Delete "class="logo"" to remove the logo or upload your own logo to "assets/images". -->
-				<span<?php echo get_theme_mod( 'logo' )?' class="logo"':''; ?>><?php echo get_bloginfo( 'name', 'display' ); ?></span>
+				<span<?php echo get_theme_mod( 'logo' )?' class="logo"':''; ?>></span>
+				<span<?php echo get_bloginfo( 'name', 'display' ); ?></span>
 			</div>
 			
 		</header>
