@@ -8,6 +8,8 @@
 					<div class="row" id="subscribe">
 						<form action="<?php echo launch::mc_api_url( get_theme_mod( 'mailchimp_user' ), get_theme_mod( 'mailchimp_list' ) ); ?>" method="get">
 							<input type="email" name="EMAIL" id="email">
+							<input type="first name" name="FNAME" id="first name">
+							<input type="last name" name="LNAME" id="last name">
 							<button type="submit" class="button icon submit" name="subscribe"></button>
 						</form>
 					</div>
